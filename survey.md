@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
+Favorite color: red
+Favorite food: makloba
 Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite movie: bab alhara
+Requested grade in the course: 98
